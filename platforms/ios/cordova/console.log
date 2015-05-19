@@ -1,0 +1,128 @@
+2015-02-27 23:23:58.906 EggTimer[48656:31536334] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Data/Application/49F446E3-47DF-468F-8C79-84C081711BFE/Library/Cookies/Cookies.binarycookies
+2015-02-27 23:23:59.181 EggTimer[48656:31536334] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-27 23:23:59.181 EggTimer[48656:31536334] Multi-tasking -> Device: YES, App: YES
+2015-02-27 23:23:59.195 EggTimer[48656:31536334] Unlimited access to network resources
+2015-02-27 23:23:59.207 EggTimer[48656:31536334] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-27 23:23:59.871 EggTimer[48656:31536334] Resetting plugins due to page load.
+2015-02-27 23:24:00.200 EggTimer[48656:31536334] Finished load of: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Bundle/Application/B73A8C12-0E88-445E-B996-DFB68C498AF5/EggTimer.app/www/index.html
+2015-02-27 23:33:45.518 EggTimer[48963:31540050] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Data/Application/5968BA2B-97D2-47C8-A153-D36996040610/Library/Cookies/Cookies.binarycookies
+2015-02-27 23:33:45.594 EggTimer[48963:31540050] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-27 23:33:45.594 EggTimer[48963:31540050] Multi-tasking -> Device: YES, App: YES
+2015-02-27 23:33:45.595 EggTimer[48963:31540050] Unlimited access to network resources
+2015-02-27 23:33:45.597 EggTimer[48963:31540050] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-27 23:33:45.732 EggTimer[48963:31540050] [CDVTimer][statusbar] 13.732016ms
+2015-02-27 23:33:45.733 EggTimer[48963:31540050] [CDVTimer][TotalPluginStartup] 13.854027ms
+2015-02-27 23:33:45.803 EggTimer[48963:31540050] Resetting plugins due to page load.
+2015-02-27 23:33:45.940 EggTimer[48963:31540050] Finished load of: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Bundle/Application/D8A16D45-5AA9-4830-B42A-7D704B2FA100/EggTimer.app/www/index.html
+2015-02-27 23:40:30.783 EggTimer[49163:31542554] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Data/Application/03B47DAE-1B48-4467-BEE8-32B1F2ABF788/Library/Cookies/Cookies.binarycookies
+2015-02-27 23:40:30.866 EggTimer[49163:31542554] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-27 23:40:30.866 EggTimer[49163:31542554] Multi-tasking -> Device: YES, App: YES
+2015-02-27 23:40:30.867 EggTimer[49163:31542554] Unlimited access to network resources
+2015-02-27 23:40:30.869 EggTimer[49163:31542554] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-27 23:40:31.010 EggTimer[49163:31542554] [CDVTimer][statusbar] 14.266014ms
+2015-02-27 23:40:31.010 EggTimer[49163:31542554] [CDVTimer][TotalPluginStartup] 14.385998ms
+2015-02-27 23:40:31.070 EggTimer[49163:31542554] Resetting plugins due to page load.
+2015-02-27 23:40:31.206 EggTimer[49163:31542554] Finished load of: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Bundle/Application/A11AC032-09E3-4F94-A16D-2608D9E1F9EF/EggTimer.app/www/index.html
+2015-02-27 23:41:00.758 EggTimer[49380:31543287] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Data/Application/DD3A2F0E-9049-47EE-8362-C9FDEA03EF01/Library/Cookies/Cookies.binarycookies
+2015-02-27 23:41:00.822 EggTimer[49380:31543287] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-27 23:41:00.823 EggTimer[49380:31543287] Multi-tasking -> Device: YES, App: YES
+2015-02-27 23:41:00.824 EggTimer[49380:31543287] Unlimited access to network resources
+2015-02-27 23:41:00.825 EggTimer[49380:31543287] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-27 23:41:00.967 EggTimer[49380:31543287] [CDVTimer][statusbar] 15.331984ms
+2015-02-27 23:41:00.967 EggTimer[49380:31543287] [CDVTimer][TotalPluginStartup] 15.507042ms
+2015-02-27 23:41:01.080 EggTimer[49380:31543287] Resetting plugins due to page load.
+2015-02-27 23:41:01.207 EggTimer[49380:31543287] Finished load of: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Bundle/Application/1B99B167-FAE4-4ADD-A3BD-5F8B4ABD5D26/EggTimer.app/www/index.html
+2015-02-27 23:42:20.622 EggTimer[49539:31544490] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Data/Application/7B7D192C-3CA0-4428-82EE-4FB165B390A8/Library/Cookies/Cookies.binarycookies
+2015-02-27 23:42:20.702 EggTimer[49539:31544490] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-27 23:42:20.702 EggTimer[49539:31544490] Multi-tasking -> Device: YES, App: YES
+2015-02-27 23:42:20.703 EggTimer[49539:31544490] Unlimited access to network resources
+2015-02-27 23:42:20.705 EggTimer[49539:31544490] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-27 23:42:20.841 EggTimer[49539:31544490] [CDVTimer][statusbar] 11.588991ms
+2015-02-27 23:42:20.841 EggTimer[49539:31544490] [CDVTimer][TotalPluginStartup] 11.711001ms
+2015-02-27 23:42:20.883 EggTimer[49539:31544490] Resetting plugins due to page load.
+2015-02-27 23:42:21.003 EggTimer[49539:31544490] Finished load of: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Bundle/Application/59930765-92AD-458A-A6BE-9415644A174B/EggTimer.app/www/index.html
+2015-02-27 23:42:36.043 EggTimer[49539:31544553] Terminating since there is no system app.
+2015-02-27 23:42:42.657 EggTimer[49701:31545359] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Data/Application/EA40FF00-D661-41F0-AE16-F3EACB7E0388/Library/Cookies/Cookies.binarycookies
+2015-02-27 23:42:42.732 EggTimer[49701:31545359] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-27 23:42:42.732 EggTimer[49701:31545359] Multi-tasking -> Device: YES, App: YES
+2015-02-27 23:42:42.733 EggTimer[49701:31545359] Unlimited access to network resources
+2015-02-27 23:42:42.735 EggTimer[49701:31545359] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-27 23:42:42.873 EggTimer[49701:31545359] [CDVTimer][statusbar] 14.869988ms
+2015-02-27 23:42:42.873 EggTimer[49701:31545359] [CDVTimer][TotalPluginStartup] 14.993012ms
+2015-02-27 23:42:42.937 EggTimer[49701:31545359] Resetting plugins due to page load.
+2015-02-27 23:42:43.057 EggTimer[49701:31545359] Finished load of: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Bundle/Application/9161EBE2-7774-47F1-8B08-B72B99D4DAEB/EggTimer.app/www/index.html
+2015-02-27 23:43:06.452 EggTimer[49823:31545914] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Data/Application/F96CFAE1-16AA-46F8-8B2B-4635FDDEBA6E/Library/Cookies/Cookies.binarycookies
+2015-02-27 23:43:06.512 EggTimer[49823:31545914] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-27 23:43:06.512 EggTimer[49823:31545914] Multi-tasking -> Device: YES, App: YES
+2015-02-27 23:43:06.513 EggTimer[49823:31545914] Unlimited access to network resources
+2015-02-27 23:43:06.515 EggTimer[49823:31545914] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-27 23:43:06.651 EggTimer[49823:31545914] [CDVTimer][statusbar] 13.925016ms
+2015-02-27 23:43:06.651 EggTimer[49823:31545914] [CDVTimer][TotalPluginStartup] 14.067054ms
+2015-02-27 23:43:06.707 EggTimer[49823:31545914] Resetting plugins due to page load.
+2015-02-27 23:43:06.852 EggTimer[49823:31545914] Finished load of: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Bundle/Application/B6E1377E-8DD9-4065-9C39-6074BD10FE37/EggTimer.app/www/index.html
+2015-02-27 23:49:55.012 EggTimer[49964:31547845] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Data/Application/A0ED35D6-3D0A-41F1-B3CE-E9B4EA393E49/Library/Cookies/Cookies.binarycookies
+2015-02-27 23:49:55.068 EggTimer[49964:31547845] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-27 23:49:55.068 EggTimer[49964:31547845] Multi-tasking -> Device: YES, App: YES
+2015-02-27 23:49:55.069 EggTimer[49964:31547845] Unlimited access to network resources
+2015-02-27 23:49:55.070 EggTimer[49964:31547845] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-27 23:49:55.205 EggTimer[49964:31547845] [CDVTimer][statusbar] 13.572037ms
+2015-02-27 23:49:55.213 EggTimer[49964:31547845] [CDVTimer][splashscreen] 7.623971ms
+2015-02-27 23:49:55.213 EggTimer[49964:31547845] [CDVTimer][TotalPluginStartup] 21.452010ms
+2015-02-27 23:49:55.279 EggTimer[49964:31547845] Resetting plugins due to page load.
+2015-02-27 23:49:55.401 EggTimer[49964:31547845] Finished load of: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Bundle/Application/8520767A-C3AA-4DCB-B031-91FFE8C9B5CD/EggTimer.app/www/index.html
