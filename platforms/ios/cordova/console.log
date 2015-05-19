@@ -126,3 +126,20 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-02-27 23:49:55.213 EggTimer[49964:31547845] [CDVTimer][TotalPluginStartup] 21.452010ms
 2015-02-27 23:49:55.279 EggTimer[49964:31547845] Resetting plugins due to page load.
 2015-02-27 23:49:55.401 EggTimer[49964:31547845] Finished load of: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/A129BC54-4920-44E4-A09D-27B9672EA0C4/data/Containers/Bundle/Application/8520767A-C3AA-4DCB-B031-91FFE8C9B5CD/EggTimer.app/www/index.html
+2015-05-19 20:21:43.725 EggTimer[10868:926407] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/72E92E72-B77D-4104-BC85-2D1662910AF6/data/Containers/Data/Application/384585A2-FA1D-4A60-A8E7-0A198A16FFD9/Library/Cookies/Cookies.binarycookies
+2015-05-19 20:21:43.971 EggTimer[10868:926407] Apache Cordova native platform version 3.7.0 is starting.
+2015-05-19 20:21:43.971 EggTimer[10868:926407] Multi-tasking -> Device: YES, App: YES
+2015-05-19 20:21:43.986 EggTimer[10868:926407] Unlimited access to network resources
+2015-05-19 20:21:43.994 EggTimer[10868:926407] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-19 20:21:44.449 EggTimer[10868:926407] [CDVTimer][statusbar] 118.095040ms
+2015-05-19 20:21:44.494 EggTimer[10868:926407] [CDVTimer][splashscreen] 44.439018ms
+2015-05-19 20:21:44.494 EggTimer[10868:926407] [CDVTimer][TotalPluginStartup] 162.809014ms
+2015-05-19 20:21:44.756 EggTimer[10868:926407] Resetting plugins due to page load.
+2015-05-19 20:21:45.040 EggTimer[10868:926407] Finished load of: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/72E92E72-B77D-4104-BC85-2D1662910AF6/data/Containers/Bundle/Application/C686390C-33EA-48C7-8305-438292CA9D00/EggTimer.app/www/index.html
