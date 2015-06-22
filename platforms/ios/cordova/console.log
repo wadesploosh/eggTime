@@ -143,3 +143,4 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-05-19 20:21:44.494 EggTimer[10868:926407] [CDVTimer][TotalPluginStartup] 162.809014ms
 2015-05-19 20:21:44.756 EggTimer[10868:926407] Resetting plugins due to page load.
 2015-05-19 20:21:45.040 EggTimer[10868:926407] Finished load of: file:///Users/wadebekker/Library/Developer/CoreSimulator/Devices/72E92E72-B77D-4104-BC85-2D1662910AF6/data/Containers/Bundle/Application/C686390C-33EA-48C7-8305-438292CA9D00/EggTimer.app/www/index.html
+2015-05-19 21:32:36.303 EggTimer[10868:954738] Terminating since there is no system app.
